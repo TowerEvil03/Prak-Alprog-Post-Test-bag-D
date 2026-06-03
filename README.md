@@ -12,6 +12,10 @@
 
 </div>
 
+<p align="center">
+  <img src="assets/grafik-5-gabungan.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
+</p>
+
 📊 Student AI Usage Analysis Based on Education Level
 Preview
 📌 About The Project
