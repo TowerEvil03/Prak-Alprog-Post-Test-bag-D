@@ -12,6 +12,9 @@
 
 </div>
 
+## 🖼️ Preview
+![Deskripsi Grafik](C:\Users\M-SI\OneDrive\Pictures\Screenshots\Screenshot 2026-06-03 205550)
+
 📊 Student AI Usage Analysis Based on Education Level
 Preview
 📌 About The Project
