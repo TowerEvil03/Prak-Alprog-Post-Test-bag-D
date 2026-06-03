@@ -13,7 +13,9 @@
 </div>
 
 ## 🖼️ Preview
-![Deskripsi Grafik](C:\Users\M-SI\OneDrive\Pictures\Screenshots\Screenshot 2026-06-03 205550)
+<p align="center">
+  <img src="assets/grafik-5-gabungan.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
+</p>
 
 📊 Student AI Usage Analysis Based on Education Level
 Preview
