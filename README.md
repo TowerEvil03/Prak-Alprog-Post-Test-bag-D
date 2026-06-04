@@ -13,9 +13,8 @@
 </div>
 
 ## 🖼️ Preview
-<p align="center">
-  <img src="assets/grafik-5-gabungan.png" alt="Preview Grafik Gabungan Student AI Usage" width="850">
-</p>
+<img width="1209" height="779" alt="image" src="https://github.com/user-attachments/assets/c72f88b9-353e-49c5-a208-ae235c7ac496" />
+
 
 📊 Student AI Usage Analysis Based on Education Level
 Preview
