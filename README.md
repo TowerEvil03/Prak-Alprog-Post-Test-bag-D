@@ -42,25 +42,25 @@ Penyajian seluruh hasil analisis dalam dashboard visualisasi terpadu.
 🎨 Menggabungkan seluruh visualisasi ke dalam layout 2 × 2.
 📝 Menyediakan interpretasi hasil analisis dari setiap visualisasi.
 📈 Analysis Result
-1. Standar Deviasi Nilai Akademik Setelah Menggunakan AI
+- Standar Deviasi Nilai Akademik Setelah Menggunakan AI
 
 Visualisasi menunjukkan bahwa kelompok School memiliki standar deviasi sebesar 8.6149, sedangkan kelompok College memiliki standar deviasi sebesar 7.6793.
 
 Hal ini menunjukkan bahwa nilai akademik siswa tingkat School setelah menggunakan AI memiliki variasi yang lebih besar dibandingkan mahasiswa College. Sebaliknya, nilai pada kelompok College cenderung lebih konsisten dan stabil.
 
-2. Mahasiswa College dengan Nilai Akhir di Atas 80
+- Mahasiswa College dengan Nilai Akhir di Atas 80
 
 Hasil penyaringan data menunjukkan terdapat beberapa mahasiswa tingkat College yang berhasil mencapai nilai akhir di atas 80 poin setelah menggunakan AI.
 
 Temuan ini mengindikasikan bahwa pemanfaatan AI berpotensi membantu sebagian mahasiswa meningkatkan performa akademik hingga mencapai kategori nilai yang tinggi.
 
-3. Korelasi Umur dan Peningkatan Nilai Akademik
+- Korelasi Umur dan Peningkatan Nilai Akademik
 
 Scatter Plot memperlihatkan bahwa peningkatan nilai akademik terjadi pada hampir seluruh rentang usia yang diamati (14–19 tahun).
 
 Sebaran titik yang relatif acak menunjukkan bahwa hubungan antara usia dan peningkatan nilai tidak terlalu kuat. Dengan kata lain, efektivitas penggunaan AI dalam membantu peningkatan nilai akademik tidak hanya dipengaruhi oleh faktor usia.
 
-4. Distribusi Jam Belajar Harian
+- Distribusi Jam Belajar Harian
 
 Boxplot menunjukkan bahwa distribusi jam belajar harian pada kelompok College dan School relatif mirip.
 
