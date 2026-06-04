@@ -33,7 +33,7 @@ Identifikasi mahasiswa tingkat college yang memperoleh nilai akhir di atas 80 po
 Hubungan antara usia siswa dengan peningkatan nilai akademik setelah menggunakan AI.
 Distribusi jam belajar harian pada setiap jenjang pendidikan.
 Penyajian seluruh hasil analisis dalam dashboard visualisasi terpadu.
-✨ Features
+✨ **Features**
 📊 Menghitung standar deviasi nilai akademik setelah penggunaan AI.
 📈 Menampilkan data mahasiswa college dengan nilai akhir di atas 80 poin.
 🔍 Menganalisis korelasi usia terhadap peningkatan nilai akademik.
@@ -65,7 +65,7 @@ Boxplot menunjukkan bahwa distribusi jam belajar harian pada kelompok College da
 
 Median kedua kelompok berada di sekitar 3 jam per hari, meskipun kelompok School menunjukkan variasi yang sedikit lebih besar. Hal ini mengindikasikan bahwa kebiasaan belajar siswa pada kedua jenjang pendidikan tidak memiliki perbedaan yang terlalu signifikan.
 
-📂 Dataset Information
+📂 **Dataset Information**
 
 Dataset terdiri dari beberapa atribut penting sebagai berikut:
 
@@ -82,11 +82,12 @@ Jupyter Notebook	Menjalankan analisis data
 pandas	Membaca dan mengolah dataset
 matplotlib	Membuat visualisasi data
 seaborn	Membuat visualisasi statistik
-🚀 Conclusion
+
+🚀**Conclusion**
 
 Berdasarkan hasil analisis, penggunaan AI memberikan dampak positif terhadap performa akademik siswa pada berbagai jenjang pendidikan. Kelompok School menunjukkan variasi nilai yang lebih besar setelah menggunakan AI, sementara kelompok College memiliki hasil yang lebih konsisten. Selain itu, usia tidak menunjukkan hubungan yang kuat terhadap peningkatan nilai akademik, dan distribusi jam belajar harian antara kedua jenjang pendidikan relatif serupa.
 
-👨‍💻 Author
+👨‍💻 **Author**
 
 Dibuat pada 2 Juni 2026 untuk memenuhi tugas Post-Test Praktikum Algoritma dan Pemrograman Kelas F.
 
