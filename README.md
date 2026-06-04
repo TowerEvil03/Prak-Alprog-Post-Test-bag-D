@@ -16,8 +16,8 @@
 <img width="1209" height="779" alt="image" src="https://github.com/user-attachments/assets/c72f88b9-353e-49c5-a208-ae235c7ac496" />
 
 
-📊 Student AI Usage Analysis Based on Education Level
-Preview
+📊 **Student AI Usage Analysis Based on Education Level
+Preview**
 📌 About The Project
 
 Student AI Usage Analysis adalah proyek eksplorasi data sederhana yang bertujuan menganalisis pengaruh penggunaan Artificial Intelligence (AI) terhadap performa akademik siswa berdasarkan jenjang pendidikan, usia, dan kebiasaan belajar.
