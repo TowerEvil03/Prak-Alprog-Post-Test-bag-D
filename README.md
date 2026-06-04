@@ -97,10 +97,19 @@ Berdasarkan hasil analisis, penggunaan AI memberikan dampak positif terhadap per
 Dibuat pada 2 Juni 2026 untuk memenuhi tugas Post-Test Praktikum Algoritma dan Pemrograman Kelas F.
 
 Bagian	Nama	NIM
-**-** Post-Test Bagian A	Islan Kulata Maharani	21060125120010
-Post-Test Bagian B	Arsya Fausta	21060125140069
-Post-Test Bagian C	Muthia Fitriatul Wahid	21060125120033
-Post-Test Bagian D	Al Afghani Nufail Pahlevi	21060125120013
+### 👨‍💻 Author
+
+Dibuat pada 2 Juni 2026 untuk memenuhi tugas Post-Test Praktikum Algoritma dan Pemrograman Kelas F.
+
+- Post-Test Bagian A — Islan Kulata Maharani (21060125120010)
+- Post-Test Bagian B — Arsya Fausta (21060125140069)
+- Post-Test Bagian C — Muthia Fitriatul Wahid (21060125120033)
+- Post-Test Bagian D — Al Afghani Nufail Pahlevi (21060125120013)
+
+Praktikum Algoritma dan Pemrograman  
+Kelas F  
+Universitas Diponegoro  
+2026
 
 Praktikum Algoritma dan Pemrograman
 Kelas F
