@@ -92,6 +92,8 @@ Berdasarkan hasil analisis, penggunaan AI memberikan dampak positif terhadap per
 
 Dibuat pada 2 Juni 2026 untuk memenuhi tugas Post-Test Praktikum Algoritma dan Pemrograman Kelas F.
 
+<img width="692" height="866" alt="image" src="https://github.com/user-attachments/assets/3b66a582-6373-4973-8f4d-44018d75b1fe" />
+
 Bagian	Nama	NIM
 **-** Post-Test Bagian A	Islan Kulata Maharani	21060125120010
 Post-Test Bagian B	Arsya Fausta	21060125140069
@@ -102,3 +104,4 @@ Praktikum Algoritma dan Pemrograman
 Kelas F
 Universitas Diponegoro
 2026
+
