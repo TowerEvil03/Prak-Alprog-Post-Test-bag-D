@@ -88,9 +88,6 @@ seaborn	Membuat visualisasi statistik
 
 Berdasarkan hasil analisis, penggunaan AI memberikan dampak positif terhadap performa akademik siswa pada berbagai jenjang pendidikan. Kelompok School menunjukkan variasi nilai yang lebih besar setelah menggunakan AI, sementara kelompok College memiliki hasil yang lebih konsisten. Selain itu, usia tidak menunjukkan hubungan yang kuat terhadap peningkatan nilai akademik, dan distribusi jam belajar harian antara kedua jenjang pendidikan relatif serupa.
 
-👨‍💻 **Author**
-
-Dibuat pada 2 Juni 2026 untuk memenuhi tugas Post-Test Praktikum Algoritma dan Pemrograman Kelas F.
 
 **INFOGRAFIS LINKEDIN**
 <img width="692" height="866" alt="image" src="https://github.com/user-attachments/assets/3b66a582-6373-4973-8f4d-44018d75b1fe" />
